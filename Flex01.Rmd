@@ -21,7 +21,7 @@ X <- reactive({
 
 ## {.sidebar} 
 
-Use the slider to choose a number, say $b$, between $0$ and $10$. Once this done, $10$ random observations from $N(b+1,1)$ will be generated, and you should see
+**How to use**: choose a number, say $b$, between $0$ and $10$ using the slider. Once done, $10$ random observations from $N(b+1,1)$ will be generated, and you get:
 
 * a data frame of the generated numbers
 * a summary, and
