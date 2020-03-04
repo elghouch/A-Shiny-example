@@ -18,7 +18,7 @@ title <- "This is my title"
 
 ## {.sidebar} 
 
-**How to use**: choose a number, say $b$ using the box below labled "Choose a number". Once done, $100$ random observations from $N(b,1)$ will be generated, and you get:
+**How to use**: choose a number, say $b$ using the box below labled "Enter a number". Once done, $100$ random observations from $N(b,1)$ will be generated, and you get:
 
 * a data frame of the generated numbers (repeated 10 times !)
 * a summary and
